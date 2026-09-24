@@ -1,0 +1,7 @@
+Projeto POO
+
+cd OOP_Project
+
+javac -d bin @sources.txt
+
+java -cp bin com.project.Main
